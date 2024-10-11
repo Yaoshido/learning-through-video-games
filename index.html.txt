@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learning Through Video Games - Transforming Education">
+    <title>Learning Through Video Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Learning Through Video Games</h1>
+        <p>Transforming Education with the Power of Games</p>
+        <a href="#about" class="cta-btn">Learn More</a>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We believe in the power of video games to make learning engaging and effective. Studies show that using video games in education enhances problem-solving, creativity, and collaboration.</p>
+    </section>
+
+    <!-- Types of Games Section -->
+    <section id="games">
+        <h2>Types of Educational Games</h2>
+        <div class="game-category">
+            <h3>Mathematics Games</h3>
+            <p>Examples: Minecraft for Geometry</p>
+        </div>
+        <div class="game-category">
+            <h3>Language Learning Games</h3>
+            <p>Examples: Duolingo, Elegy for a Dead World</p>
+        </div>
+        <div class="game-category">
+            <h3>Problem-Solving & Strategy Games</h3>
+            <p>Examples: Portal, Civilization VI</p>
+        </div>
+        <div class="game-category">
+            <h3>History & Culture Games</h3>
+            <p>Examples: Assassin’s Creed for History</p>
+        </div>
+    </section>
+
+    <!-- Game Reviews Section -->
+    <section id="reviews">
+        <h2>Game Reviews</h2>
+        <p>Discover the best educational games and how they contribute to learning. Our reviews cover a range of subjects and skill levels.</p>
+    </section>
+
+    <!-- How It Works Section -->
+    <section id="how-it-works">
+        <h2>How It Works</h2>
+        <p>Video games help students develop cognitive skills such as problem-solving, collaboration, and creativity. Here's how you can incorporate them into your teaching.</p>
+    </section>
+
+    <!-- Resources for Teachers Section -->
+    <section id="resources">
+        <h2>Resources for Teachers</h2>
+        <p>Explore our guides and recommendations on how to integrate video games into your traditional teaching methods.</p>
+    </section>
+
+    <!-- Community Forum Section -->
+    <section id="community">
+        <h2>Community Forum</h2>
+        <p>Join our forum to share ideas, resources, and experiences with educators, parents, and students who are passionate about learning through video games.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Learning Through Video Games. All rights reserved.</p>
+        <a href="#newsletter" class="cta-btn">Sign Up for Our Newsletter</a>
+    </footer>
+</body>
+</html>
